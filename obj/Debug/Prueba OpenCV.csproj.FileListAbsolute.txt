@@ -1,0 +1,25 @@
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\dll\x86\opencv_videoio_ffmpeg480.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\dll\x64\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\Prueba OpenCV.exe.config
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\Prueba OpenCV.exe
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\Prueba OpenCV.pdb
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\OpenCvSharp.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\OpenMcdf.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Buffers.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Memory.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\OpenCvSharp.xml
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Buffers.xml
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Memory.xml
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexandra\source\repos\Prueba OpenCV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexandra\source\repos\Prueba OpenCV\obj\Debug\Prueba OpenCV.csproj.AssemblyReference.cache
+C:\Users\Alexandra\source\repos\Prueba OpenCV\obj\Debug\Prueba OpenCV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandra\source\repos\Prueba OpenCV\obj\Debug\Prueba OpenCV.exe.config
+C:\Users\Alexandra\source\repos\Prueba OpenCV\obj\Debug\Prueba OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\Prueba OpenCV\obj\Debug\Prueba OpenCV.csproj.CopyComplete
+C:\Users\Alexandra\source\repos\Prueba OpenCV\obj\Debug\Prueba OpenCV.exe
+C:\Users\Alexandra\source\repos\Prueba OpenCV\obj\Debug\Prueba OpenCV.pdb
